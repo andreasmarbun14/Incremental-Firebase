@@ -236,8 +236,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 159528273}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -4.4, y: -0.063, z: 10}
-  m_LocalScale: {x: 0.3264482, y: 0.3082434, z: 1}
+  m_LocalPosition: {x: -2.99, y: -0.096, z: 10}
+  m_LocalScale: {x: 0.3264482, y: 0.31286705, z: 1}
   m_Children: []
   m_Father: {fileID: 519420032}
   m_RootOrder: 0
@@ -732,7 +732,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 763200490}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -4.5, y: 0, z: 0}
+  m_LocalPosition: {x: -3.5, y: 0, z: 0}
   m_LocalScale: {x: 2, y: 2, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -1042,8 +1042,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -418.1, y: 239.04}
-  m_SizeDelta: {x: -836.2, y: -484.6}
+  m_AnchoredPosition: {x: -418.09998, y: 312.75}
+  m_SizeDelta: {x: -836.2, y: -625.51}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1146447044
 MonoBehaviour:
@@ -1429,17 +1429,37 @@ MonoBehaviour:
   _popUpText: {fileID: 396184647}
   _popUpShowDuration: 3
   _achievementList:
-  - Title: Unlock Intern
+  - Title: Shopee Mart
     Type: 0
-    Value: Intern
+    Value: ShopeeMart
     IsUnlocked: 0
-  - Title: Unlock Developer
+  - Title: Shopee Food
     Type: 0
-    Value: Developer
+    Value: ShopeeFood
     IsUnlocked: 0
-  - Title: Unlock Manager
+  - Title: Go Mart
     Type: 0
-    Value: Manager
+    Value: GoMart
+    IsUnlocked: 0
+  - Title: Go Food
+    Type: 0
+    Value: GoFood
+    IsUnlocked: 0
+  - Title: Go Ride
+    Type: 0
+    Value: GoRide
+    IsUnlocked: 0
+  - Title: Grab Mart
+    Type: 0
+    Value: GrabMart
+    IsUnlocked: 0
+  - Title: Grab Food
+    Type: 0
+    Value: GrabFood
+    IsUnlocked: 0
+  - Title: Grab Bike
+    Type: 0
+    Value: GrabBike
     IsUnlocked: 0
 --- !u!82 &1439141239
 AudioSource:
@@ -1910,8 +1930,8 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 1329514926}
   m_HandleRect: {fileID: 1329514925}
   m_Direction: 2
-  m_Value: 1
-  m_Size: 0.99999976
+  m_Value: 0
+  m_Size: 1
   m_NumberOfSteps: 0
   m_OnValueChanged:
     m_PersistentCalls:
@@ -1989,7 +2009,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -0.000019055724, y: -0.000013511929}
+  m_AnchoredPosition: {x: -0.000019055724, y: -0.0000044265803}
   m_SizeDelta: {x: -0.000030506604, y: 0}
   m_Pivot: {x: 0, y: 1}
 --- !u!114 &1802055846
