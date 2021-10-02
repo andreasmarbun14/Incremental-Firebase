@@ -7,4 +7,4 @@ link https://github.com/andreasmarbun14/Incremental-Firebase/tree/Step-1-Local-F
 
 File Branch 2 (Cloud Data)
 package branch untuk menyelesaikan step 2
-link 
+link https://github.com/andreasmarbun14/Incremental-Firebase/tree/step-2-cloud-with-firebase-analytics
